@@ -5,7 +5,7 @@
 This white paper outlines the vision, technical architecture, and strategic use cases of FreedomCast, a system built for survival when traditional infrastructure collapses or becomes hostile.
 
 ## 📎 Contents
-- [White Paper PDF](./FreedomCast-Whitepaper.pdf)
+- [White Paper PDF](./FreedomCast_Whitepaper_GitHub_Final.pdf)
 - Use Cases
 - Deployment Strategy
 - Call to Action for Builders and Supporters
