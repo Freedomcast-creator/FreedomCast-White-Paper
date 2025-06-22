@@ -1,23 +1,65 @@
-# FreedomCast: A Platform for the People
+# 🕊️ FreedomCast: A Platform for the People
 
-**FreedomCast** is a decentralized, censorship-resistant communication platform designed for whistleblowers, organizers, journalists, and everyday people living under authoritarian threats.
+**FreedomCast** is a decentralized, censorship-resistant communication protocol built for survival. Whether you're a whistleblower, dissident, journalist, protester, or just someone who believes in truth and free speech — this platform is for you.
 
-This white paper outlines the vision, technical architecture, and strategic use cases of FreedomCast, a system built for survival when traditional infrastructure collapses or becomes hostile.
+---
 
-🚨 CALLING DEVELOPERS & BUILDERS
+## 🔥 Why FreedomCast?
 
-This whitepaper outlines a bold, secure, decentralized social media network called FreedomCast — built to survive censorship, empower whistleblowers, and protect free expression.
+Authoritarianism is rising. Platforms are being weaponized. Truth is being buried.
 
-💡 We are seeking developers, engineers, cryptographers, and privacy advocates to help build this vision into reality.
+FreedomCast is being built as a last-line defense:  
+- No corporate gatekeepers  
+- No government censors  
+- No infrastructure dependencies
 
-📩 If you're interested in helping develop the FreedomCast protocol, reach out via [bussey.author@gmail.com], or submit a GitHub issue with your interest.
+This is communication for when the lights go out — or when someone turns them off on purpose.
 
-## 📎 Contents
-- [White Paper PDF](./FreedomCast_Whitepaper_GitHub_Final.pdf)
-- Use Cases
-- Deployment Strategy
-- Call to Action for Builders and Supporters
+---
 
-> Built for those who need the truth to survive.
+## 📄 Project Files
 
-Released under Creative Commons Attribution-ShareAlike (CC BY-SA).
+- 📘 [White Paper (PDF)](./FreedomCast_Whitepaper_GitHub_Final.pdf)
+- 📌 [Developer One-Pager](./FreedomCast_Dev_OnePager.pdf)
+- 🧭 [Roadmap](./RoadMap.md)
+- 🤝 [How to Contribute](./Contributing.md)
+
+---
+
+## 🚀 Current Status
+
+We are in **Phase 0** (foundation-building). The whitepaper is complete. Core architecture is outlined. Now we’re seeking:
+
+- 💻 Developers (web3, p2p, encryption, UX)
+- 🔐 Cryptographers & security reviewers
+- 🌍 Activists & community partners
+- 🧠 Thinkers & architects
+
+---
+
+## 📣 How to Get Involved
+
+> If you're ready to help build a communication system that **can’t be silenced**, you belong here.
+
+📬 **Email**: [bussey.author@gmail.com]  
+📌 Or submit a GitHub [issue](https://github.com/Freedomcast-creator/FreedomCast-White-Paper/issues)
+
+---
+
+## 🧠 Core Idea
+
+> A truth-preserving protocol.  
+> For a world where truth is under fire.  
+> Decentralized. Encrypted. Resilient.
+
+---
+
+## 📜 License
+
+Released under **Creative Commons Attribution-ShareAlike (CC BY-SA)**  
+Use it, fork it, remix it — just give credit and keep it free.
+
+---
+
+> _“Built for those who need the truth to survive.”_  
+> — Christian Bussey, FreedomCast Creator
