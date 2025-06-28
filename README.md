@@ -41,7 +41,7 @@ We are in **Phase 0** (foundation-building). The whitepaper is complete. Core ar
 
 > If you're ready to help build a communication system that **can’t be silenced**, you belong here.
 
-📬 **Email**: [bussey.author@gmail.com]  
+📬 **Email**: [Christian.bussey.author@gmail.com]  
 📌 Or submit a GitHub [issue](https://github.com/Freedomcast-creator/FreedomCast-White-Paper/issues)
 
 ---
